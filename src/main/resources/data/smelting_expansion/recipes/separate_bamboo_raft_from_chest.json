@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_chest_boat"
+    }
+  ],
+  "result": {
+    "item": "minecraft:chest"
+  }
+}
